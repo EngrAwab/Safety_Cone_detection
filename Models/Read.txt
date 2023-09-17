@@ -1,1 +1,1 @@
-This foler contaisn all the models for the cone detection project. 
+This foler contain all the models for the cone detection project. 
