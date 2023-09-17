@@ -20,5 +20,5 @@ yolo predict model=Cone.pt source='path-to-video'
 ```
 pip install ultralytics
 ```
-# Conact Information 
-Feel free to Contact me on my [linked_in porfile]([url](https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/)https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/)
+# Contact Information 
+Feel free to Contact me on my [linked_in porfile]([url(https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/)https://www.linkedin.com/in/muhammad-awab-younas-27bb50230/])
